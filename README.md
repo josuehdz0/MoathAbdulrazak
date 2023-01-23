@@ -6,6 +6,5 @@ As a software developer, I have a passion for creating innovative solutions and 
 
 I am a strong collaborator and problem-solver, always seeking to improve the user experience. I have a proven track record of delivering software solutions in fast-paced environments and enjoy working in a team setting.
 
-I am always looking to improve my skillset and stay up to date with the latest technologies. In my free time, I enjoy experimenting with new programming languages and tools, and contributing to open-source projects.
-
+I am always looking to improve my skillset and stay up to date with the latest technologies. In my free time, I enjoy experimenting with new programming languages.
 Feel free to reach out to me on these platforms! • LinkedIn:https://www.linkedin.com/in/moath-abdulrazak-38633a262/ • Email:moathabdulrazak12@gmail.com

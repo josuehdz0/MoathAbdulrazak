@@ -1,5 +1,6 @@
 ### Hello there 👋
 
+i'm Moath, a full-stack software developer. I have a passion for web developement and art. Art fuels my intersets, i've always had a passion for art. I enjoy creating and exploring different forms of artistic expression. Here's a little more about me!
 
 As a software developer, I have a passion for creating innovative solutions and delivering high-quality products. I am highly skilled in  • HTML • CSS • JavaScript • Vue.js(3x) • Node.js • Express  • MVC Patterns • C#/ .NET • MySQL • FireBase and have experience in building scalable, efficient web applications.
 

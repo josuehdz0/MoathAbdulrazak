@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 
 As a software developer, I have a passion for creating innovative solutions and delivering high-quality products. I am highly skilled in  • HTML • CSS • JavaScript • Vue.js(3x) • Liquid.js • Node.js • Express • Shopify • Ruby • MVC Patterns • C#/ .NET • MySQL • FireBase and have experience in building scalable, efficient web applications.

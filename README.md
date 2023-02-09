@@ -8,3 +8,6 @@ I am a strong collaborator and problem-solver, always seeking to improve the use
 
 I am always looking to improve my skillset and stay up to date with the latest technologies. In my free time, I enjoy experimenting with new programming languages.
 Feel free to reach out to me on these platforms! • LinkedIn:https://www.linkedin.com/in/moath-abdulrazak-38633a262/ • Email:moathabdulrazak12@gmail.com
+
+
+[![Moath's GitHub stats](https://github-readme-stats.vercel.app/api?username=moathabdulrazak)](https://github.com/moathabdulrazak/github-readme-stats)

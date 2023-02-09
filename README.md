@@ -11,3 +11,7 @@ Feel free to reach out to me on these platforms! • LinkedIn:https://www.linked
 
 
 [![Moath's GitHub stats](https://github-readme-stats.vercel.app/api?username=moathabdulrazak)](https://github.com/moathabdulrazak/github-readme-stats)
+
+
+![Moath's GitHub stats](https://github-readme-stats.vercel.app/api?username=moathabdulrazak&show_icons=true)
+

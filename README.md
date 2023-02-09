@@ -10,8 +10,7 @@ I am always looking to improve my skillset and stay up to date with the latest t
 Feel free to reach out to me on these platforms! • LinkedIn:https://www.linkedin.com/in/moath-abdulrazak-38633a262/ • Email:moathabdulrazak12@gmail.com
 
 
-[![Moath's GitHub stats](https://github-readme-stats.vercel.app/api?username=moathabdulrazak)](https://github.com/moathabdulrazak/github-readme-stats)
 
 
-![Moath's GitHub stats](https://github-readme-stats.vercel.app/api?username=moathabdulrazak&show_icons=true)
 
+![Moath's GitHub stats](https://github-readme-stats.vercel.app/api?username=moathabdulrazak&show_icons=true&theme=radical)

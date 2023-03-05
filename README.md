@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moath Abdulrazak</h1>
-<h3 align="center">A passionate full stack developer =</h3>
+<h3 align="center">A passionate full stack developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moathabdulrazak&label=Profile%20views&color=0e75b6&style=flat" alt="moathabdulrazak" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **firebase, react, typescript and angular**
 
-- 👨‍💻 All of my projects are available at [https://moathabdulrazak.github.io/landingpage/](https://moathabdulrazak.github.io/landingpage/)
+- 👨‍💻 Some of my projects are available at [https://moathabdulrazak.github.io/landingpage/](https://moathabdulrazak.github.io/landingpage/)
 
 - 📫 How to reach me **moathabdulrazak12@gmail.com**
 

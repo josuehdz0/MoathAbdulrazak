@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **firebase, react, typescript and angular**
 
-- 👨‍💻 All of my projects are available at [https://www.moath.us/](https://www.moath.us/s)
+- 👨‍💻 All of my projects are available at [https://www.moath.us/](https://www.moath.us/)
 
 - 📫 How to reach me **moathabdulrazak12@gmail.com**
 

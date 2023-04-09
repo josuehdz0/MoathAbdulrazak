@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **improving my skills**
 
-- 🌱 I’m currently learning **firebase, react, typescript and angular**
+- 🌱 I’m currently learning **firebase, next.js,react, typescript and angular**
 
 - 👨‍💻 All of my projects are available at [https://www.moath.us/](https://www.moath.us/)
 
